@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="DisplayRecon — Investigate. Identify. Initialize. Integrate." width="100%">
+</p>
+
 # DisplayRecon
 
 **Investigate. Identify. Initialize. Integrate.**
